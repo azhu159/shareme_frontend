@@ -9,4 +9,4 @@ The ReactJS project let people share, create , save images deployed at [here](ht
 - [x] The platform provide search and filter function, demonstrates various kinds of pictures in a beautiful Masonry Grid style.
 
 ## ScreenShots
-![img](https://imgur.com/6hiQfmQ)
+![img](https://i.imgur.com/6hiQfmQ.png)
